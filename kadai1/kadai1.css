@@ -72,15 +72,14 @@ footer {
   }
   
   main {
+    width: 100%;
     display: block;
   }
   
   .box {
-    width: 40%;
-    margin: 0 0 20px 5px;
+    width: 90%;
+    margin: 20px auto;
   }
   
   .box-image {
-    width: 40%;
-  }
-}
+    width: 90%;
